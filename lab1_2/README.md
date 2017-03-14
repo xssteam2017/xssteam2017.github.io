@@ -12,6 +12,6 @@
 
 
 ## Screenshots
-![Screenshot1](/images/screenshot1.jpg)
-![Screenshot2](/images/screenshot2.jpg)
-![Screenshot3](/images/screenshot3.jpg)
+![Screenshot1](https://xssteam2017.github.io/lab1_2/images/screenshot1.jpg)
+![Screenshot2](https://xssteam2017.github.io/lab1_2/images/screenshot2.jpg)
+![Screenshot3](https://xssteam2017.github.io/lab1_2/images/screenshot3.jpg)

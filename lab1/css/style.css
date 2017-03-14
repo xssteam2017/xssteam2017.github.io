@@ -18,6 +18,10 @@
 	height: 450px;
 	margin: 20px auto;
 }
+#wrapper img{
+	width: 420px;
+	height:400px;
+}
 #inf{
 	width: 420px;
 	border-top: 1px solid #888888;
